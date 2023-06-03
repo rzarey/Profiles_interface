@@ -120,7 +120,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-while(!success{
+while(!success){
   if(youFail)
     improvement++;
   if(improvement > fear)
